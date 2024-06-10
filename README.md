@@ -3,7 +3,15 @@ Hamradio Digital Modes without Cables.
 
 Don't forget to set up the BT401 to the right communication velocity of your Rig
 
-AT+CT01\r\n for 9600 Baud etc.... take a look at the BT401 manual for more information.
+AT+CT01\r\n for 9600 Baud 
+
+AT+CT02\r\n for 19200 Baud 
+
+AT+CT03\r\n for 38400 Baud
+
+AT+CT04\r\n for 57600 Baud
+
+AT+CT05\r\n for 115200 Baud etc.... take a look at the BT401 manual for more information.
 
 Project still in progress, PCB allready tested.
 
