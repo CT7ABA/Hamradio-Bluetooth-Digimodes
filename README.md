@@ -13,6 +13,6 @@ AT+CT04\r\n for 57600 Baud
 
 AT+CT05\r\n for 115200 Baud etc.... take a look at the BT401 manual for more information.
 
-Project still in progress, PCB allready tested.
+Project still in progress, PCB allready tested. RV1 & RV2 still not the correct values, for the FT-817 both RV are bypassed
 
 ![BT401PCB](https://github.com/CT7ABA/Hamradio-Bluetooth-Digimodes/assets/26884406/335f82e7-917e-4625-b5c1-94f261b38d47)
